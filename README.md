@@ -15,6 +15,7 @@ Desenvolva uma tela que liste livros cadastrados em um Custom Post do <b>Wordpre
 - Uso de <b>Javascript</b> para forçar o download do PDF;
 - Usar <b>SCSS</b>;
 - Documentar Usuário e Senha do WP;
+- Subir projeto no GitHub;   
 
 
 ## Diferenciais
